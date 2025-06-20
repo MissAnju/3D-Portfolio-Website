@@ -1,1 +1,3 @@
 # 3D-Portfolio-Website
+
+The 3D Portfolio Website is an interactive and visually captivating platform designed to showcase an individual's skills, projects, and personal information in a unique 3D environment. Built using technologies like HTML, CSS, JavaScript, and Three.js, the site offers immersive animations, 3D models, and smooth transitions. It features sections such as About Me, Education, Projects, and Contact, all presented within a dynamic 3D interface. The responsive design ensures compatibility across all devices, enhancing user experience. Ideal for designers, developers, and creatives, this portfolio sets a strong impression and demonstrates both technical skills and creativity in modern web development.
